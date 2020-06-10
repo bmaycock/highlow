@@ -1,0 +1,13 @@
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\bin\Debug\netcoreapp3.1\High Low.exe
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\bin\Debug\netcoreapp3.1\High Low.deps.json
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\bin\Debug\netcoreapp3.1\High Low.runtimeconfig.json
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\bin\Debug\netcoreapp3.1\High Low.runtimeconfig.dev.json
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\bin\Debug\netcoreapp3.1\High Low.dll
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\bin\Debug\netcoreapp3.1\High Low.pdb
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\obj\Debug\netcoreapp3.1\High Low.csprojAssemblyReference.cache
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\obj\Debug\netcoreapp3.1\High Low.AssemblyInfoInputs.cache
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\obj\Debug\netcoreapp3.1\High Low.AssemblyInfo.cs
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\obj\Debug\netcoreapp3.1\High Low.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\obj\Debug\netcoreapp3.1\High Low.dll
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\obj\Debug\netcoreapp3.1\High Low.pdb
+C:\Users\Ben\Documents\Year 12 Coursework\High Low\High Low\obj\Debug\netcoreapp3.1\High Low.genruntimeconfig.cache
